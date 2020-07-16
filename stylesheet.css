@@ -995,7 +995,7 @@ html[lang='id'] .hidden-id {
   padding-top: 50px;
 }
 
-.TlRdZ {
+.sign-up {
   display: inline-block;
   text-align: center;
   cursor: pointer;
@@ -1031,7 +1031,7 @@ html[lang='id'] .hidden-id {
   border-radius: 5px;
 }
 
-.gtkSGj {
+.success-story__link {
   display: inline-block;
   font-size: 0.875rem;
   text-align: center;
@@ -1048,7 +1048,7 @@ html[lang='id'] .hidden-id {
   border-radius: 5px;
 }
 
-.gtkSGj:hover {
+.success-story__link:hover {
   color: #16325c;
   background: #8be0e6;
 }
